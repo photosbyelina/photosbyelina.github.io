@@ -1,0 +1,29 @@
+baseURL = 'https://photosbyelina.github.io'
+languageCode = 'en-us'
+copyright = "© Elīna Jermoloviča"
+title = 'Photos by Elina'
+defaultContentLanguage = "en"
+# enableRobotsTXT = true wtf is that?
+timeZone = "Europe/Berlin"
+theme = 'gallery'
+
+[params]
+  title = "Photos by Elina"
+  description = "Gallery of Elinas photos"
+  defaultTheme = "dark"
+
+[author]
+  name = "Elīna Jermoloviča"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 75
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
