@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 # enableRobotsTXT = true wtf is that?
 timeZone = "Europe/Berlin"
 theme = 'gallery'
+timeout = '60s'
 
 [params]
   title = "Photos by Elina"
