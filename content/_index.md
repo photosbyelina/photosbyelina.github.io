@@ -1,7 +1,7 @@
 ---
 title: Photos by Elina
 linktitle: Home
-description: Soon there will be awesome galleries with beautifull pictures. For now its just images from picsum.photos;
+description: Hi! My name is Elīna. Here is a small preview of my work. You can also find me on Instagram @thatmomentlv and @e_liinaj. I mostly do portrait and event photography, and sometimes product photography.
 #lastmod: 2023-12-26
 # featured_image: test.jpg # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.

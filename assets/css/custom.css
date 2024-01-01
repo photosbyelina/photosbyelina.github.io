@@ -1,0 +1,8 @@
+#instagram-link {
+	font-weight: bold
+}
+
+#instagram-link:hover {
+	color: seagreen;
+	text-decoration: underline;
+}
